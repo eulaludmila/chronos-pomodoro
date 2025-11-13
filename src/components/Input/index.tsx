@@ -13,5 +13,3 @@ export function Input({ labelText, id, type, ...props }: TInputProps) {
     </>
   );
 }
-
-export default Input;

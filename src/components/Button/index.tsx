@@ -14,5 +14,3 @@ export function Button({ icon, color = 'green', ...props }: TButtonProps) {
     </>
   );
 }
-
-export default Button;
